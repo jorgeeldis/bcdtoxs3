@@ -1,0 +1,4 @@
+vhdl work "Schematic2.vhf"
+vhdl work "Schematic1.vhf"
+vhdl work "contador.vhd"
+vhdl work "Schematic.vhf"

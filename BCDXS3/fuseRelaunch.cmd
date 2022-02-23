@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/jorge/Downloads/ProyectoFinal/ProyectoFinalTarjeta/Schematic1_isim_beh.exe" -prj "C:/Users/jorge/Downloads/ProyectoFinal/ProyectoFinalTarjeta/Schematic1_beh.prj" "work.Schematic1" 

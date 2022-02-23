@@ -1,0 +1,28 @@
+Command line:
+   Schematic2_isim_beh.exe
+     -simmode  gui
+     -simrunnum  1
+     -socket  59766
+
+Fri Dec 03 21:54:36 2021
+
+
+ Elaboration Time: 0.125 sec
+
+ Current Memory Usage: 5154.61 Meg
+
+ Total Signals          : 119
+ Total Nets             : 50
+ Total Signal Drivers   : 21
+ Total Blocks           : 25
+ Total Primitive Blocks : 24
+ Total Processes        : 21
+ Total Traceable Variables  : 13
+ Total Scalar Nets and Variables : 533
+
+ Total Simulation Time: 0.140625 sec
+
+ Current Memory Usage: 5154.61 Meg
+
+Fri Dec 03 21:54:58 2021
+
